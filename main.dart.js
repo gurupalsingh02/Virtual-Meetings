@@ -82162,8 +82162,8 @@ A.ato.prototype={
 $1(a){return A.bQ(t.N,t.Wy)},
 $S:495}
 A.py.prototype={
-am(){var s,r,q,p,o,n=null,m="https://online-meetings-app-backend.onrender.com",l="query",k=t.N,j=t.z,i=A.X(["transports",A.b(["websocket"],t.s),"autoConnect",!1],k,j),h=A.dB(m),g=h.gdd()+"://"+h.ghl(h)+":"+h.gm1(h),f=h.gdl(h),e=$.as4.ad(0,g)&&$.as4.h(0,g).d.ad(0,f),d=i.h(0,"forceNew")===!0||i.h(0,"force new connection")===!0||!1===i.h(0,"multiplex")||e,c=A.b1("io")
-if(d){$.aH3().aS(B.l,"ignoring socket cache for https://online-meetings-app-backend.onrender.com",n,n)
+am(){var s,r,q,p,o,n=null,m="https://online-meetings.me:3000",l="query",k=t.N,j=t.z,i=A.X(["transports",A.b(["websocket"],t.s),"autoConnect",!1],k,j),h=A.dB(m),g=h.gdd()+"://"+h.ghl(h)+":"+h.gm1(h),f=h.gdl(h),e=$.as4.ad(0,g)&&$.as4.h(0,g).d.ad(0,f),d=i.h(0,"forceNew")===!0||i.h(0,"force new connection")===!0||!1===i.h(0,"multiplex")||e,c=A.b1("io")
+if(d){$.aH3().aS(B.l,"ignoring socket cache for https://online-meetings.me:3000",n,n)
 c.b=A.azP(i,m)}else{s=$.as4.h(0,g)
 if(s==null){s=A.azP(i,m)
 $.as4.m(0,g,s)}c.b=s}if(h.gj1(h).length!==0&&i.h(0,l)==null)i.m(0,l,h.gj1(h))
